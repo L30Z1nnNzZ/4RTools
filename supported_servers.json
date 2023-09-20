@@ -768,5 +768,11 @@
     "site": "https://www.roglobalgrounds.com/",
     "hpAddress": "00F45E54",
     "nameAddress": "00F48798"
+  },
+  {
+    "name": "UnrealRO",
+    "description": "Best server of regnarok",
+    "hpAddress": "0x0113B7B0",
+    "nameAddress": "0x0113B7B0"
   }
 ]
